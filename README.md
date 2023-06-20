@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning **reactjs**
-
+- 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about **Html, css(bootstrap, tailwindcss, daisyUI, Flowbite), javascript(reactJs), basic nodejs basic expressjs, basic mongodb,**
 
 - 📫 How to reach me **isha.web1@gmail.com**
