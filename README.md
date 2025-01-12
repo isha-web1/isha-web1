@@ -1,6 +1,6 @@
 ![Banner Image](https://i.ibb.co.com/2cg5NcW/github-banner.png)
 <h1 align="center">Hi There 👋,  Greeting from isha khan</h1>
-<h3 align="center">A passionate Front End developer(reactJs) from Bangladesh</h3>
+
 
 
 >
