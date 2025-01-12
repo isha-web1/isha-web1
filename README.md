@@ -1,7 +1,7 @@
 ![Banner Image](https://i.ibb.co.com/2cg5NcW/github-banner.png)
 <h1 align="center">Hi There 👋,  Greeting from isha khan</h1>
 <h3 align="center">A passionate Front End developer(reactJs) from Bangladesh</h3>
-<img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isha-web1&label=Profile%20views&color=0e75b6&style=flat" alt="isha-web1" /> </p>
