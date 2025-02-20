@@ -1,5 +1,5 @@
 ![github banner](https://github.com/user-attachments/assets/cd563749-1471-43e3-9b97-0526f6304732)<h1 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>Hi There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  Greeting from isha khan</h1>
-![cover photo!](https://i.ibb.co.com/2cg5NcW/github-banner.png)
+
 
 
 
